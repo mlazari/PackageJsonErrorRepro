@@ -1064,10 +1064,10 @@
     execa "^1.0.0"
     prompts "^2.4.0"
 
-"@react-native-community/cli-config@^8.0.3":
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/@react-native-community/cli-config/-/cli-config-8.0.3.tgz#485a7e5e97b8d28fac7f904e9cd5f6d156532f46"
-  integrity sha512-QhLU6QZywkoO4FzpeEkdoYml0nE9tBwhmOUI/c5iYPOtKhhXiW8kNCLiX96TJDiZonalzptkkNiRZkipdz/8hw==
+"@react-native-community/cli-config@8.0.2", "@react-native-community/cli-config@^8.0.3":
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/@react-native-community/cli-config/-/cli-config-8.0.2.tgz#dd033cf51fae2b046304b40bb166f577165c6c48"
+  integrity sha512-q0mL6QBzoLDHmlvkAKdgioIsMeyvvgRyu0WVLvT/v5DX6OVRvq4UEULLEY+7/P+760nPBQo4Ou1KqpP/SxmbXA==
   dependencies:
     "@react-native-community/cli-tools" "^8.0.0"
     cosmiconfig "^5.1.0"
